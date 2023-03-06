@@ -38,6 +38,10 @@ p {
   color: #000;
 }
 
+.text-h1 {
+color: #060650;
+}
+
 .lead {
   font-size: 20px;
 }
